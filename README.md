@@ -6,13 +6,13 @@
 - ML/AI: TensorFlow | Scikit-Learn | Pandas | Numpy 
 - Data Viz: Tableau | Plotly | Google Data Studio
 
-🙋🏻‍♀️ **MORE ABOUT ME**
+🐰 **MORE ABOUT ME**
 
 - 💬 Ask me about career change, music, coding, and bootcamp experience. 
 
 - 👯 I’m looking to collaborate on open source projects.
 
-📫 **GET IN TOUCH**
+💌 **GET IN TOUCH**
 - LinkedIn: https://www.linkedin.com/in/linanc/
 
 
