@@ -1,4 +1,5 @@
-### Hi there, I'm Linan! I stand at the intersection of tech, culture, and creative arts. 
+## Hi there, I'm Linan! 👋
+### A data scientist who stands at the intersection of tech, culture, and creative arts.
 
 🧰 **TECH STACK**
 - Backend: Python
