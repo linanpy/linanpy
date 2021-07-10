@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Linan! 👋 
+### I stand at the intersection of data analytics, culture, and creative arts. 
+
+🧰 **TECH STACK**
+- Backend: Python
+- Database: MySQL | MongoDB
+- ML/AI: TensorFlow | Scikit-Learn | Pandas | Numpy 
+- Data Viz: Tableau | Plotly | Google Data Studio
+
+🙋🏻‍♀️ **MORE ABOUT ME**
+
+- 💬 Ask me about career change, music, coding, and bootcamp experience. 
+
+- 👯 I’m looking to collaborate on open source projects.
+
+📫 **GET IN TOUCH**
+- LinkedIn: https://www.linkedin.com/in/linanc/
+
 
 <!--
 **linanpy/linanpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
