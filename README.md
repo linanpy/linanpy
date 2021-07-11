@@ -2,7 +2,7 @@
 ### A data scientist who stands at the intersection of tech, culture, and creative arts.
 
 🧰 **TECH STACK**
-- Backend: Python
+- Programming: Python
 - Database: MySQL | MongoDB
 - ML/AI: TensorFlow | Scikit-Learn | Pandas | Numpy 
 - Data Viz: Tableau | Plotly | Google Data Studio
