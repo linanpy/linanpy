@@ -9,7 +9,7 @@
 
 🐰 **MORE ABOUT ME**
 
-- 💬 Ask me about career change, music, coding, and bootcamp experience. 
+- 💬 Ask me about career change, music, and bootcamp experience. 
 
 - 👯 I’m looking to collaborate on open source projects.
 
